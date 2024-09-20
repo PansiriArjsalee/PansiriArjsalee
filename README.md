@@ -27,9 +27,5 @@ src="https://img.shields.io/github/followers/PansiriArjsalee?logo=github&style=f
 
 <p align="left"> <a href="https://www.github.com/PansiriArjsalee" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a></p>
 
-### Badges
-
-<a href="https://github.com/PansiriArjsalee" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PansiriArjsalee&langs_count=10&title_color=ec4899&text_color=a855f7&icon_color=a855f7&bg_color=ffffff&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a><!--
-**PansiriArjsalee/PansiriArjsalee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 
