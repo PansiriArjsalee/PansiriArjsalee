@@ -9,7 +9,7 @@ Junior QA 🖥️
 I've been learning information study program Burapha University.
 
 * 🌍  I'm based in Chonburi
-* ✉️  You can contact me at [pansiriforwork@gmail.com](mailto:pansiriforwork@gmail.com)
+* ✉️  You can contact me at [pansiriforwork@gmail.com](mailto:pansiri.arjsalee@gmail.com)
 * 🧠  I'm learning Automate test
 
 <a href="https://www.github.com/PansiriArjsalee" target="_blank" rel="noreferrer"><img
